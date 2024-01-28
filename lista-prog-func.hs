@@ -36,13 +36,13 @@ print (fibonacci number)
 
 -- Exercicio 4
 
--- Opicional
+-- Opcional
 
 -- ----------------------------------------------------------------------------------------
 
 -- Exercicio 5
 
--- Opicional
+-- Opcional
 
 -- ----------------------------------------------------------------------------------------
 
@@ -203,7 +203,7 @@ tamPilha (cabeca:corpo) = 1 + (tamPilha corpo)
 
 -- Exercicio 18
 
--- Opicional
+-- Opcional
 
 -- ----------------------------------------------------------------------------------------
 
@@ -272,7 +272,7 @@ conv_int_str (cabeca:corpo) = (valToStr cabeca dic_10):conv_int_str corpo
 
 -- Exercicio 24
 
--- Opicional
+-- Opcional
 
 -- ----------------------------------------------------------------------------------------
 
